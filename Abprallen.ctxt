@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Abprallen
+comment0.text=\r\n\ Bildschirmschoner\:\ Sprites\ titschen\ im\ Fenster\ hin\ und\ her\r\n\ (Name,\ Datum)\r\n
+comment1.params=
+comment1.target=Abprallen()
+comment1.text=\r\n\ Erzeugt\ Grafikfenster,\ l\u00E4dt\ Bilder,\ erzeugt\ Sprites\r\n\ for\ (int\ i\ \=\ 0;\ i\ <\ spListe.length;\ i++)\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ if(i\ <\ 6){\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ spListe[i]\ \=\ new\ Sprite(img1);\r\n\ \ \ \ \ \ \ \ \ \ \ \ }\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ if(i\ >\=\ 6\ &&\ i\ <\ 12){\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ spListe[i]\ \=\ new\ Sprite(img2);\r\n\ \ \ \ \ \ \ \ \ \ \ \ }\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ if(i\ >\=\ 12\ &&\ i\ <\ 18){\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ spListe[i]\ \=\ new\ Sprite(img3);\r\n\ \ \ \ \ \ \ \ \ \ \ \ }\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ if(i\ >\=\ 18\ &&\ i\ <\ 14){\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ spListe[i]\ \=\ new\ Sprite(img4);\r\n\ \ \ \ \ \ \ \ \ \ \ \ }\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ if(i\ >\=\ 24\ &&\ i\ <\ 30){\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ spListe[i]\ \=\ new\ Sprite(img4);\r\n\ \ \ \ \ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ }\r\n
+comment2.params=
+comment2.target=void\ main()
+comment2.text=\r\n\ Ablauf\ des\ Spiels\r\n
+numComments=3

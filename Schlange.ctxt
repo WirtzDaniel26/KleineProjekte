@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Schlange
+comment0.text=\r\n\ Sprites\ formen\ eine\ Schlange,\ die\ dem\ Mauszeiger\ folgt\r\n\ (Name,\ Datum)\r\n
+comment1.params=
+comment1.target=Schlange()
+comment1.text=\r\n\ Erzeugt\ Grafikfenster,\ l\u00E4dt\ Bilder,\ erzeugt\ Sprites\r\n
+comment2.params=
+comment2.target=void\ main()
+comment2.text=\r\n\ Ablauf\ des\ Spiels\r\n
+numComments=3
